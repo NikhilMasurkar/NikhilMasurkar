@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilmasurkar" alt="nikhilmasurkar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nikhilmasurkar" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilmasurkar?logo=twitter&style=for-the-badge" alt="nikhilmasurkar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nikhilmasurkar3" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilmasurkar?logo=twitter&style=for-the-badge" alt="nikhilmasurkar" /></a> </p>
 
 - 🔭 I’m currently working on Indigolearn [IndigoLearn Edu Tech](https://www.indigolearn.com/)
 
