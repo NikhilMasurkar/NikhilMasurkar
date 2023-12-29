@@ -5,21 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilmasurkar" alt="nikhilmasurkar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nikhilmasurkar3" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilmasurkar?logo=twitter&style=for-the-badge" alt="nikhilmasurkar" /></a> </p>
-
 - 🔭 I’m currently working on Indigolearn [IndigoLearn Edu Tech](https://www.indigolearn.com/)
 
 - 🌱 I’m currently learning **Java, AWS,**
 
 - 💬 Ask me about **React, React Native , Javascript,**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.na" height="30" width="40" /></a> 
+<a href="https://dev.to/dev.na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.na" height="30" width="40" /></a>
 <a href="https://twitter.com/nikhilmasurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilmasurkar" height="30" width="40" /></a>
 <a href="https://medium.com/@na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@na" height="30" width="40" /></a>
 <a href="/na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="na" height="30" width="40" /></a>
@@ -31,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilmasurkar&show_icons=true&locale=en&layout=compact" alt="nikhilmasurkar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilmasurkar&show_icons=true&locale=en" alt="nikhilmasurkar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilmasurkar&" alt="nikhilmasurkar" /></p>
