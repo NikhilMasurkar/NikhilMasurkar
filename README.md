@@ -73,7 +73,7 @@ What truly stood out was how AI is transforming the way we **think**, **build**,
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://dev.to/dev.na" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" width="40" height="40"/></a>
-  <a href="https://twitter.com/nikhilmasurkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/></a>
-  <a href="https://medium.com/@na" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/nikhil-masurkar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
