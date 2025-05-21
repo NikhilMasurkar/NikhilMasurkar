@@ -1,56 +1,79 @@
 <h1 align="center">Hi 👋, I'm Nikhil Masurkar</h1>
-<h3 align="center">A passionate React & React Native Developer | Tech Explorer | AI Enthusiast</h3>
+<h3 align="center">A passionate React & React Native developer building modern UI experiences 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhilmasurkar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmasurkar" />
+</p>
 
 ---
 
-### 🚀 About Me
-
-- 🔭 Currently building amazing products at [IndigoLearn Edu Tech](https://www.indigolearn.com/)
-- 🌱 Exploring **Java**, **AWS**, and the **AI Ecosystem**
-- 💬 Ask me about **React**, **React Native**, and **JavaScript**
-- ⚡ Fun fact: I'm always curious about how tech can transform human potential
+### 👨‍💻 About Me
+- 🔭 Currently working at [IndigoLearn Edu Tech](https://www.indigolearn.com/)
+- 🌱 Exploring **Java**, **AWS**, and advanced **AI integrations**
+- 💬 Ask me about **React**, **React Native**, **JavaScript**, or building scalable UI systems
+- 🎯 Passionate about building impactful products and transforming ideas into tech solutions
 
 ---
 
-### 🤖 Recent AI Journey
-
+### 🤖 My AI Journey
 During this power-packed experience, I deep-dived into:
-
 - 🧠 Concepts of Large Language Models (LLMs)  
 - 🛠️ Practical use of AI models  
 - 🎯 Prompt engineering strategies  
 - 📚 Smart learning methods to get the most out of AI  
 
-What truly stood out was how AI is transforming the way we think, build, and solve in real-world scenarios.
+What truly stood out was how AI is transforming the way we **think**, **build**, and **solve** real-world problems.
 
-#### 💡 Key skills I sharpened:
+💡 Key skills I sharpened:
 - Design Thinking  
 - Problem Solving  
 - Modern UI Development  
 - Using AI to Build Products  
-- AI for Content Writing & Research
+- AI for Content Writing & Research  
 
 ---
 
-### 🔗 Connect With Me
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <a href="https://twitter.com/nikhilmasurkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://medium.com/@na" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+#### 🧩 Languages & Frameworks
+- React, React Native
+- JavaScript, HTML5, CSS3
+- Java
+- Bootstrap
+- Material-UI
+
+#### 🔌 State Management & APIs
+- Redux.js  
+- Firebase  
+- REST APIs  
+- Postman
+
+#### 🛠️ Tools & Platforms
+- Git & GitHub  
+- JIRA  
+- npm libraries  
+- Android Studio  
+- AWS  
+- Firebase
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilmasurkar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilmasurkar&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
+  <a href="https://dev.to/dev.na" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" width="40" height="40"/></a>
+  <a href="https://twitter.com/nikhilmasurkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/></a>
+  <a href="https://medium.com/@na" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" height="40"/></a>
 </p>
-
----
