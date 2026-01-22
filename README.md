@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nikhil Masurkar</h1>
+<h1 align="center"><a href="https://nikhilmasurkar.netlify.app/">Link>
+  Hi 👋, I'm Nikhil Masurkar
+</a></h1>
 <h3 align="center">A passionate React & React Native developer building modern UI experiences 🚀</h3>
 
 <p align="center">
